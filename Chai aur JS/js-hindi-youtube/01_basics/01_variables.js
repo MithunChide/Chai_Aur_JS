@@ -14,6 +14,10 @@ accountCity = "Bengaluru"
 console.log(accountId);
 
 console.log("krishan kumar");
+console.log("krishan kumar");
+console.log("krishan kumar");
+console.log("krishan kumar");
+console.log("krishan kumar");
 
 /*
 Prefer not to use var
