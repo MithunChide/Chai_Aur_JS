@@ -15,5 +15,6 @@ Prefer not to use Var
 because of issue in block scope and functional scope
 */
 console.log(accountId);
+console.log("krishan");
  console.table ([accountEmail,accountPassword,accountState,accountName]);
 
