@@ -1,0 +1,29 @@
+html {
+    margin: 0;
+}
+
+.canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+ text-align: center;
+}
+.button {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    border: 2px solid black;
+    cursor: pointer;
+  
+}
+#orange {
+    background-color: orange; 
+ }
+ #white {
+    background-color: white;
+ }
+ #blue {
+    background-color: blue
+ }
+ #green {
+    background-color: green;
+ }
